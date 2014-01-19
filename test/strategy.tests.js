@@ -176,7 +176,7 @@ describe.only('LinkedIn Strategy', function () {
           'site-standard-profile-request,'+
           'api-standard-profile-request:(headers,url),'+
           'public-profile-url,'+
-          'last-modified-timstamp,'+
+          'last-modified-timestamp,'+
           'first-proposal-comments,'+
           'associations,'+
           'interests,'+ 
